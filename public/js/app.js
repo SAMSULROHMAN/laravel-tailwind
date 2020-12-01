@@ -963,7 +963,7 @@ module.exports = Cancel;
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(10);
-(function webpackMissingModule() { throw new Error("Cannot find module \"C:\\xampp\\htdocs\\laravel-5.4\\resources\\sass\\app.scss\""); }());
+module.exports = __webpack_require__(43);
 
 
 /***/ }),
@@ -45057,6 +45057,12 @@ if (false) {
     require("vue-hot-reload-api")      .rerender("data-v-650f2efa", module.exports)
   }
 }
+
+/***/ }),
+/* 43 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

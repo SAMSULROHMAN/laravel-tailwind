@@ -19,8 +19,9 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
-    "nodemon": "^1.18.9",
     "autoprefixer": "^8.6.4",
+    "nodemon": "^1.18.9",
+    "postcss": "^8.1.10",
     "tailwindcss": "^1.5.1"
   }
 }
